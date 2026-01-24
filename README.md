@@ -21,8 +21,13 @@ Aquiles Faro es el módulo abierto de Aquiles OS para investigación aplicada: *
 
 **Si solo querés ver outputs:** mirá `docs/`.
 
+## 🚨 Public Preview
+Esta es una **preview ética y auditable** del Engine.  
+Leé el release público: `PUBLIC_RELEASE.md`.
+
 ## Para devs
 - Cómo contribuir: ver `CONTRIBUTING.md`
+- Expectativas de conducta: ver `CODE_OF_CONDUCT.md`
 - Labels sugeridas: `good first issue`, `help wanted`, `llm_lab`, `jobs`, `docs`, `security`
 
 ## Ética y seguridad
