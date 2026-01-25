@@ -5,6 +5,7 @@ Aquiles Faro es el módulo abierto de Aquiles OS para investigación aplicada: *
 **Dominio canónico:** aquilesindustries.com  
 **CoC:** conduct@aquilesindustries.com · **Security:** security@aquilesindustries.com  
 **SLA acuse:** 48h  
+**Policies:** `SECURITY.md` · `CODE_OF_CONDUCT.md`  
 **Forwarding setup:** `community/EMAIL_SETUP_FORWARDING.md`
 
 ## Qué genera

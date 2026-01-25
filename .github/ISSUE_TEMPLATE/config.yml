@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security reports
+    url: SECURITY.md
+    about: Report vulnerabilities privately via security@aquilesindustries.com
+  - name: Code of Conduct
+    url: CODE_OF_CONDUCT.md
+    about: Report conduct issues via conduct@aquilesindustries.com

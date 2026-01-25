@@ -65,6 +65,10 @@ and fairly.
 This address routes to a small CoC response team (at least 2–3 people). If you
 are reporting a security vulnerability, please use the contact in SECURITY.md.
 
+We aim to acknowledge reports within 48 hours and provide a first update within
+5 business days. If a report involves a member of the response team, that
+person will recuse themselves from the case.
+
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 

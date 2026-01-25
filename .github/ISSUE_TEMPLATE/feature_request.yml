@@ -1,0 +1,42 @@
+name: "Feature request"
+description: "Propone una mejora o nueva función"
+title: "[feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema / contexto
+      description: Qué necesidad resuelve
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Propuesta
+      description: Qué cambiarías o agregarías
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas
+      description: Opciones consideradas
+    validations:
+      required: false
+  - type: input
+    id: hardware
+    attributes:
+      label: Hardware (si aplica)
+      placeholder: "CPU-only, 8GB RAM"
+    validations:
+      required: false
+  - type: checkboxes
+    id: ethics
+    attributes:
+      label: Checklist
+      options:
+        - label: "No requiere PII ni scraping sin consentimiento"
+          required: true
+        - label: "Incluye evidencia o ejemplo verificable"
+          required: false
