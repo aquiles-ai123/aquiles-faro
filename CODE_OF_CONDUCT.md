@@ -59,8 +59,11 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-security@aquiles.ai. All complaints will be reviewed and investigated promptly
+conduct@aquilesindustries.com. All complaints will be reviewed and investigated promptly
 and fairly.
+
+This address routes to a small CoC response team (at least 2–3 people). If you
+are reporting a security vulnerability, please use the contact in SECURITY.md.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.

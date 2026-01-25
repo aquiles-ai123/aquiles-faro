@@ -3,7 +3,9 @@
 ## Reporting a Vulnerability
 
 If you believe you have found a security vulnerability, please report it to:
-**security@aquiles.ai**
+**security@aquilesindustries.com**
+
+For Code of Conduct reports, see CODE_OF_CONDUCT.md (conduct@aquilesindustries.com).
 
 Please include:
 - a clear description of the issue

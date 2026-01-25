@@ -25,6 +25,11 @@
 - [ ] Cambios documentados en `README.md` o `docs/`
 - [ ] Sin tocar `index.html` / `evidence.html` (si no es necesario)
 
+## Conducta y seguridad
+- Código de Conducta: `CODE_OF_CONDUCT.md`
+- Playbook de enforcement: `community/COC_ENFORCEMENT_PLAYBOOK.md`
+- Política de seguridad: `SECURITY.md`
+
 ## Running local (si aplica)
 Este repo publica documentación y artefactos de módulo. Si tu aporte requiere ejecución, indicá en el PR:
 - hardware (CPU/GPU, RAM)
