@@ -2,6 +2,11 @@
 
 Aquiles Faro es el módulo abierto de Aquiles OS para investigación aplicada: **local-first, auditable y ético**. Su foco es transformar evidencia en diagnóstico y acciones concretas, con trazabilidad completa y sin cambios a ciegas.
 
+**Dominio canónico:** aquilesindustries.com  
+**CoC:** conduct@aquilesindustries.com · **Security:** security@aquilesindustries.com  
+**SLA acuse:** 48h  
+**Forwarding setup:** `community/EMAIL_SETUP_FORWARDING.md`
+
 ## Qué genera
 - **Daily Digest**
 - **Nightly Backlog**
@@ -24,6 +29,11 @@ Aquiles Faro es el módulo abierto de Aquiles OS para investigación aplicada: *
 ## Para devs
 - Cómo contribuir: ver `CONTRIBUTING.md`
 - Labels sugeridas: `good first issue`, `help wanted`, `llm_lab`, `jobs`, `docs`, `security`
+
+## Conducta y seguridad
+- Código de Conducta: `CODE_OF_CONDUCT.md`
+- Playbook de enforcement: `community/COC_ENFORCEMENT_PLAYBOOK.md`
+- Política de seguridad: `SECURITY.md`
 
 ## Ética y seguridad
 - Eje operativo: **evidencia → diagnóstico → acción**
