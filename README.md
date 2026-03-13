@@ -35,6 +35,7 @@ Leé el release público: `PUBLIC_RELEASE.md`.
 - Repo público de documentación y gobernanza del módulo Faro.
 - Release notes actualizadas: `RELEASE_NOTES_v0.1.1.md`
 - Índice público y artefactos históricos: `public/os_public_index.md`
+- Demo reproducible real de Aquiles: `public/aquiles_reasoning_demo_2026-03-13.md`
 - Roadmap de siguiente etapa: `ROADMAP.md`
 
 ## Para devs

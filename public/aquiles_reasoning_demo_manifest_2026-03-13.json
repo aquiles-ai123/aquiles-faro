@@ -1,0 +1,98 @@
+{
+  "generated_at": "2026-03-13T15:22:37.844074+00:00",
+  "source": "local_project_aquiles_golden_demo",
+  "host": "127.0.0.1",
+  "port": 8797,
+  "cases": [
+    {
+      "id": "def_ia_01",
+      "category": "definitional",
+      "claim": "Qué es la IA",
+      "summary": {
+        "claim_type": "definicional",
+        "contexto": "IA",
+        "relacion": "definición solicitada",
+        "objeto": "",
+        "domains_detected": ["tecnologia"],
+        "subclaims_count": 4,
+        "wikipedia_items": 2,
+        "traceable_sources": 0
+      }
+    },
+    {
+      "id": "hist_termopilas_01",
+      "category": "historical_quantitative_negation",
+      "claim": "La batalla de las termópilas no fueron 300 soldados.",
+      "summary": {
+        "claim_type": "negación cuantitativa",
+        "contexto": "La batalla de las termópilas",
+        "relacion": "negación cuantitativa",
+        "objeto": "300 soldados",
+        "domains_detected": ["historia"],
+        "subclaims_count": 4,
+        "wikipedia_items": 1,
+        "traceable_sources": 0
+      }
+    },
+    {
+      "id": "temp_ww3_01",
+      "category": "temporal_geopolitical",
+      "claim": "La tercera guerra mundial ya comenzó.",
+      "summary": {
+        "claim_type": "temporal",
+        "contexto": "La tercera guerra mundial",
+        "relacion": "inicio temporal afirmado",
+        "objeto": "",
+        "domains_detected": ["tecnologia", "historia"],
+        "subclaims_count": 4,
+        "wikipedia_items": 4,
+        "traceable_sources": 0
+      }
+    },
+    {
+      "id": "comp_boric_01",
+      "category": "comparative_evaluative_politics",
+      "claim": "Boric tuvo un mal gobierno comparado anteriores gobiernos en Chile.",
+      "summary": {
+        "claim_type": "comparativo-evaluativo",
+        "contexto": "Gobierno de Gabriel Boric en Chile",
+        "relacion": "comparación evaluativa de desempeño gubernamental",
+        "objeto": "gobiernos anteriores en Chile",
+        "domains_detected": ["politica", "economia"],
+        "subclaims_count": 4,
+        "wikipedia_items": 5,
+        "traceable_sources": 0
+      }
+    },
+    {
+      "id": "hist_tech_ww2_01",
+      "category": "historical_relational_technology",
+      "claim": "La segunda guerra mundial hizo avanzar la tecnología.",
+      "summary": {
+        "claim_type": "relacional",
+        "contexto": "La segunda guerra mundial",
+        "relacion": "hizo avanzar",
+        "objeto": "la tecnología",
+        "domains_detected": ["tecnologia", "historia"],
+        "subclaims_count": 4,
+        "wikipedia_items": 5,
+        "traceable_sources": 0
+      }
+    },
+    {
+      "id": "econ_inflation_01",
+      "category": "economics",
+      "claim": "La inflación redujo el poder adquisitivo en Chile.",
+      "summary": {
+        "claim_type": "relacional",
+        "contexto": "La inflación",
+        "relacion": "redujo",
+        "objeto": "el poder adquisitivo en Chile",
+        "domains_detected": ["economia"],
+        "subclaims_count": 4,
+        "wikipedia_items": 4,
+        "traceable_sources": 0
+      }
+    }
+  ]
+}

@@ -8,6 +8,10 @@
 ## Current public note
 - [faro_public_status_2026-03-13.md](faro_public_status_2026-03-13.md)
 
+## Reproducible Aquiles demo
+- [aquiles_reasoning_demo_2026-03-13.md](aquiles_reasoning_demo_2026-03-13.md)
+- [aquiles_reasoning_demo_manifest_2026-03-13.json](aquiles_reasoning_demo_manifest_2026-03-13.json)
+
 ## Historical acknowledge reports
 - [os_acknowledge_public_2026-01-25_1319.md](os_acknowledge_public_2026-01-25_1319.md)
 - [os_acknowledge_public_2026-01-25_1308.md](os_acknowledge_public_2026-01-25_1308.md)
