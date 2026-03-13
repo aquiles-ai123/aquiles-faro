@@ -35,3 +35,9 @@ Reduce el costo de coordinación y análisis continuo en equipos pequeños: conv
 ## Enlace conceptual a Aquiles Faro
 Aquiles Faro es el hub público de documentación y gobernanza del Engine.  
 El objetivo es que cualquier persona pueda auditar qué hace y qué no hace el sistema.
+
+## Estado al 2026-03-13
+- Faro sigue siendo una preview pública y ética, no una superficie de autopublicación autónoma.
+- El repositorio se actualizó para reflejar mejor su rol de documentación, evidencia y gobernanza.
+- Los artefactos históricos siguen disponibles en `public/`.
+- La siguiente fase consiste en mejorar el vínculo entre documentación pública y demos reproducibles.

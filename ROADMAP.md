@@ -1,33 +1,30 @@
-# Roadmap — 7 días (MVP gratuito)
+# Roadmap — actualización 2026-03-13
 
-**Objetivo**: entregar un MVP que “trabaje solo” con políticas éticas y auditoría.
+**Objetivo**: consolidar Aquiles Faro como módulo público, auditable y útil para documentación, evidencia y comunidad, sin fingir una madurez que aún no tiene.
 
-## D1 — Docs + quickstart + issues starter
-- README público y docs/spec
-- Templates de issues/PR
-- Guía de contribución y seguridad
+## Línea 1 — Claridad pública
+- mantener `README.md`, `PUBLIC_RELEASE.md` y release notes alineados
+- distinguir explícitamente entre preview, artefactos históricos y trabajo activo
+- dejar visible qué hace Faro y qué no hace
 
-## D2 — Dashboard job
-- Estado de jobs (últimos runs)
-- Resumen en `runtime/reports/`
+## Línea 2 — Evidencia y artefactos
+- mantener índice público de artefactos en `public/`
+- conservar evidence packs con hash verificable
+- separar mejor artefactos heredados de Aquiles OS frente a artefactos Faro
 
-## D3 — Suite de benchmarks + presets CPU
-- Bench estable y reproducible
-- Presets “fast/best” para CPU-only
+## Línea 3 — Gobernanza y contribución
+- endurecer guía de contribución y contactos
+- hacer más simple el onboarding para issues pequeños y colaboración universitaria
+- mantener conducta, seguridad y privacidad como contratos públicos claros
 
-## D4 — Chunking community draft (si aplica)
-- Secciones cortas
-- Checkpoints y reintentos
+## Línea 4 — Próxima etapa técnica
+- añadir un estado público más estructurado del módulo
+- publicar una ruta mínima de demo reproducible
+- conectar la documentación abierta con los avances experimentales reales de Aquiles
 
-## D5 — Community loop (weekly)
-- Draft semanal
-- Checklist de publicación manual
-
-## D6 — Packaging / release
-- Empaquetado y versionado
-- Guía de instalación “pro”
-
-## D7 — Primera release + contribución madura
-- Release v1
-- Checklist de calidad y ética
-- Flujo de contribuciones estable
+## Criterio de avance
+Cada actualización pública debe dejar:
+- cambios documentados
+- límites explícitos
+- artefactos auditables
+- una narrativa honesta del estado actual

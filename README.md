@@ -1,4 +1,4 @@
-# Aquiles Faro — Módulo 01: Research Desk (Open)
+# Aquiles Faro — Research Desk (Open)
 
 Aquiles Faro es el módulo abierto de Aquiles OS para investigación aplicada: **local-first, auditable y ético**. Su foco es transformar evidencia en diagnóstico y acciones concretas, con trazabilidad completa y sin cambios a ciegas.
 
@@ -30,6 +30,12 @@ Aquiles Faro es el módulo abierto de Aquiles OS para investigación aplicada: *
 ## 🚨 Public Preview
 Esta es una **preview ética y auditable** del Engine.  
 Leé el release público: `PUBLIC_RELEASE.md`.
+
+## Estado público al 2026-03-13
+- Repo público de documentación y gobernanza del módulo Faro.
+- Release notes actualizadas: `RELEASE_NOTES_v0.1.1.md`
+- Índice público y artefactos históricos: `public/os_public_index.md`
+- Roadmap de siguiente etapa: `ROADMAP.md`
 
 ## Para devs
 - Cómo contribuir: ver `CONTRIBUTING.md`
